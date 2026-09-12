@@ -1,0 +1,2 @@
+# No external dependencies needed yet
+# SQLite is built into Python
